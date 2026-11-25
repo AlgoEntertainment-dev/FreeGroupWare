@@ -12,7 +12,7 @@ https://algoentertainment-dev.github.io/FreeGroupWare/
 
 **インストール版（無料）のダウンロード**
 [Releases](https://github.com/AlgoEntertainment-dev/FreeGroupWare/releases/latest) の `FreeGroupWare_Setup.exe` です。
-
+※インストール後の起動時Windows の警告が出ます。詳細情報→実行と進めてください
 ---
 
 ## 目次
